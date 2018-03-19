@@ -10,4 +10,4 @@
 抓取的数据包括：。。。。，抓取内容如下图所示。
 
 其中手机APP发帖数为160088，占总发帖数的78%（app发帖占比图）；除开匿名用户，共有73121名用户在该区发帖
-![Aaron Swartz](https://github.com/beckleon/netease_scrapy/master/pics/overview.jpg)
+![Aaron Swartz](https://raw.githubusercontent.com/beckleon/netease_scrapy/master/pics/overview.jpg)
