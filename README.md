@@ -46,4 +46,4 @@
 <div align=center><img src="https://raw.githubusercontent.com/beckleon/netease_scrapy/master/pics/post_trend.jpg"/></div>
 
 ## 5、总结 ##
-从抓取的内容总体来看，玩家在官方论坛上不太活跃。可能由多种因素造成，这里不做推测。
+从抓取的内容总体来看，玩家在官方论坛上不太活跃。建议加大广告力度或增加宣传、运营活动。
